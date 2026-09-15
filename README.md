@@ -15,7 +15,7 @@ A simple and lightweight auto clicker for Windows.
 
 ## Usage
 
-1. Launch `AutoClicker.exe`.
+1. Launch `SimpleAutoClicker.exe`.
 2. Set the click interval in milliseconds.
 3. Press **Start** or **F6** to begin clicking.
 4. Press **Stop** or **F6** again to stop.
@@ -36,7 +36,7 @@ The app uses only built-in .NET Framework libraries and Windows `user32.dll` API
 
 ## Download
 
-A prebuilt Windows executable will be added to the **Releases** section.
+Download the latest prebuilt Windows executable from the [latest release](https://github.com/lunely/SimpleAutoClicker/releases/latest).
 
 ## Notes
 
